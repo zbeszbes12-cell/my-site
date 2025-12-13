@@ -34,14 +34,14 @@ a{
 .h4{
   position: absolute;
     top: 150px;
-    right: 260px;  
+    right: 230px;  
     font-size: 20px;
 }
 
 .h1{
     position: absolute;
     top: 250px;
-    right: 50px;  
+    right: 30px;  
     font-size: 50px;
 }
 
@@ -131,6 +131,7 @@ img {
   max-width: 100%;   /* Rasmlar torayadi */
   height: auto;
 }
+
 
 
 
