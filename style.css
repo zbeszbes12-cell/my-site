@@ -26,7 +26,7 @@ a{
 .chiziq{
     position: absolute;
     top: 150px;
-    right: 400px;
+    right: 420px;
     width:5px;
     height:385px;
     background-color: black;
@@ -131,6 +131,7 @@ img {
   max-width: 100%;   /* Rasmlar torayadi */
   height: auto;
 }
+
 
 
 
