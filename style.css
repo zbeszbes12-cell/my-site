@@ -114,14 +114,23 @@ a{
     text-decoration: none;
 }
 
-@media (max-width: 600px) {
-  .container {
-    width: 100%;
-    padding: 10px;
-  }
-  body {
-    font-size: 14px; /* Matnni kichikroq qilish */
-  }
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
 }
+
+.container {
+  width: 90%;        /* Ekran kengligiga moslashadi */
+  max-width: 1200px; /* Katta ekranlarda cheklash */
+  margin: 0 auto;    /* Markazlashtirish */
+}
+
+img {
+  max-width: 100%;   /* Rasmlar torayadi */
+  height: auto;
+}
+
 
 
