@@ -1,0 +1,115 @@
+.head{
+    display: flex;
+    gap:2rem;
+    position: absolute;
+    top: 50px;
+    right: 50px;
+}
+
+.header{
+    background-color: rgb(3, 3, 97);
+    color: white;
+    border-radius: 30px;
+    height: 50px;
+}
+a{
+    cursor: pointer;
+}
+
+.rasm{
+    border-radius: 60px 60px 0px 0px;
+    height:400px;
+   display:flex;
+   margin-left: 100px;
+   margin-top: 50px;
+}
+.chiziq{
+    position: absolute;
+    top: 150px;
+    right: 400px;
+    width:5px;
+    height:385px;
+    background-color: black;
+}
+.h4{
+  position: absolute;
+    top: 150px;
+    right: 220px;  
+    font-size: 20px;
+}
+
+.h1{
+    position: absolute;
+    top: 250px;
+    right: 50px;  
+    font-size: 50px;
+}
+
+.student{
+    position: absolute;
+    top: 380px;
+    right: 236px;  
+    font-size: 45px;
+    color:rgb(235, 172, 95);
+}
+
+.h{
+    background-color: lightblue;
+    width:600px;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+.rasmm{
+    width: 500px;
+    height: 580px;
+    display: flex;
+    justify-content: end;
+    border-radius: 20px;
+}
+
+.rasmmm{
+    display: flex;
+    gap:3rem;
+
+}
+
+#projects{
+    background-color: lightslategrey;
+    padding: 20px;
+    border-radius: 20px;
+    text-align: center;
+}
+
+#contact{
+   margin-left: 50px;
+}
+
+a:hover{
+    color: blue;
+}
+footer{
+    background-color: rgb(0, 11, 61);
+    color: white;
+    height: 400px;
+}
+
+.footer{
+    display: flex; 
+    gap: 3rem;
+    justify-content: center;
+}
+
+.p{
+   position: absolute;
+   top:3550px;
+}
+.p2{
+   position: absolute;
+   top:3550px;
+   right: 10px;
+}
+
+a{
+    text-decoration: none;
+}
