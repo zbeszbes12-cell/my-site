@@ -115,31 +115,7 @@ a{
 }
 
 
-* {
-  box-sizing: border-box;
-}
 
-body {
-  margin: 0;
-}
-
-.header {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: space-between;
-}
-
-@media (max-width: 768px) {
-  .header {
-    flex-direction: column;
-    text-align: center;
-  }
-
-  .rasm {
-    width: 100%;
-    height: auto;
-  }
-}
 
 
 
